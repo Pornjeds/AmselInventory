@@ -58,6 +58,10 @@
                                         <input name="remember" type="checkbox" value="Remember Me">Remember Me
                                     </label>
                                 </div>
+                                <div class="form-group">
+                                  <label>user: test</label>
+                                  <label>password: test</label>
+                                </div>
                                 <input type="submit" class="btn btn-primary" value="Login"/>
                                 <!-- Change this to a button or input when using this as a form -->
                                 <!-- <a href="index.html" class="btn btn-lg btn-success btn-block">Login</a> -->

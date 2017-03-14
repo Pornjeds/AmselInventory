@@ -8,3 +8,4 @@ INSERT INTO `Inventory`.`Permission` (`Role`, `PermissionLevel`) VALUES ('Admini
 
 -- INSERT INTO `Users`
 INSERT INTO `Inventory`.`Users` (`FirstName`, `LastName`, `NickName`, `PermissionID`, `isDisable`, `UserName`, `Password`) VALUES ('Pornjed', 'Sakgitjarung', 'A', 3, 0, 'pornjeds', MD5('xvoo^db318'));
+INSERT INTO `Inventory`.`Users` (`FirstName`, `LastName`, `NickName`, `PermissionID`, `isDisable`, `UserName`, `Password`) VALUES ('Test', 'User', 'A', 3, 0, 'test', MD5('test'));
