@@ -277,7 +277,7 @@
                             <!-- /input-group
                         </li> -->
                         <li>
-                            <a href="index.html"><i class="fa fa-desktop fa-fw"></i> หน้าแรก</a>
+                            <a href="home"><i class="fa fa-desktop fa-fw"></i> หน้าแรก</a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-user fa-fw"></i> ข้อมูล PC<span class="fa arrow"></span></a>
